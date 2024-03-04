@@ -1,6 +1,6 @@
 ## Ongoing Projects
 
-### 🙟 [Widgetmancer:](https://github.com/willhansen/widgetmancer)
+### 🙟 [Widgetmancer](https://github.com/willhansen/widgetmancer)
 A roguelike with portals
 - Rendered entirely in the terminal
 - Written in Rust
@@ -10,7 +10,7 @@ A roguelike with portals
 https://github.com/willhansen/willhansen/assets/2918280/d6115d57-0bee-418b-84c7-2646d109db38
 
 
-### 🙟 [The Royalty Off Revenue License:](https://github.com/willhansen/RoyaltyOffRevenueLicense) 
+### 🙟 [The Royalty Off Revenue License](https://github.com/willhansen/RoyaltyOffRevenueLicense) 
 A proposal for an open source license.
 - Designed to prevent the case where money is made off of an open source project but none is given back to the people who worked on it.
 
